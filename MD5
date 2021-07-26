@@ -1,0 +1,9 @@
+ea1f907fdd5a0924d6ca60cf46fab846 *DESCRIPTION
+1fbceda7e3affe66bf30388b632265bf *LICENSE
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+b7f16c05f54ca354403abe899a9dea72 *R/SPCA.R
+15c637243e486f60045dd2c91b67b771 *README.md
+f62099ba3d95d576cd65c6d2b55a4d67 *inst/extdata/a.RDS
+57c51ead6929e22e7ad512ea6e74f2d0 *man/normalize.Rd
+eec35b933d09fa3976366f8ead325c45 *man/prox.l1.Rd
+f4fea76b41191b8e00b64172335ee97d *man/spca.amanpg.Rd
