@@ -1,10 +1,9 @@
 Package: amanpg
-Version: 0.3.1
-Date: 2021-08-21
+Version: 0.3.2
+Date: 2021-09-27
 Title: Alternating Manifold Proximal Gradient Method for Sparse PCA
 Type: Package
 Authors@R: c(
-    person("Shixiang", "Chen", role = "aut"),
     person("Justin", "Huang", role = "aut"),
     person("Benjamin","Jochem", role = "aut"),
     person("Shiqian", "Ma", role = "aut"),
@@ -18,11 +17,12 @@ Description: Alternating Manifold Proximal Gradient Method for Sparse PCA uses t
     Zou, H., Hastie, T., & Tibshirani, R. (2006) <doi:10.1198/106186006X113430>.
     Zou, H., & Xue, L. (2018) <doi:10.1109/JPROC.2018.2846588>.
 License: MIT + file LICENSE
+VignetteBuilder: knitr
+Suggests: knitr, rmarkdown
 Encoding: UTF-8
 NeedsCompilation: no
-Packaged: 2021-09-01 15:00:55 UTC; benjochem
-Author: Shixiang Chen [aut],
-  Justin Huang [aut],
+Packaged: 2021-09-27 23:10:12 UTC; benjochem
+Author: Justin Huang [aut],
   Benjamin Jochem [aut],
   Shiqian Ma [aut],
   Lingzhou Xue [cre, aut],
@@ -30,4 +30,4 @@ Author: Shixiang Chen [aut],
 Maintainer: Lingzhou Xue <lzxue@psu.edu>
 Depends: R (>= 3.5.0)
 Repository: CRAN
-Date/Publication: 2021-09-02 11:00:10 UTC
+Date/Publication: 2021-10-02 04:20:02 UTC
