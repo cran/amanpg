@@ -1,9 +1,10 @@
 Package: amanpg
-Version: 0.3.2
-Date: 2021-09-27
+Version: 0.3.3
+Date: 2021-10-04
 Title: Alternating Manifold Proximal Gradient Method for Sparse PCA
 Type: Package
 Authors@R: c(
+    person("Shixiang", "Chen", role = "aut"),
     person("Justin", "Huang", role = "aut"),
     person("Benjamin","Jochem", role = "aut"),
     person("Shiqian", "Ma", role = "aut"),
@@ -21,8 +22,9 @@ VignetteBuilder: knitr
 Suggests: knitr, rmarkdown
 Encoding: UTF-8
 NeedsCompilation: no
-Packaged: 2021-09-27 23:10:12 UTC; benjochem
-Author: Justin Huang [aut],
+Packaged: 2021-10-04 15:50:53 UTC; benjochem
+Author: Shixiang Chen [aut],
+  Justin Huang [aut],
   Benjamin Jochem [aut],
   Shiqian Ma [aut],
   Lingzhou Xue [cre, aut],
@@ -30,4 +32,4 @@ Author: Justin Huang [aut],
 Maintainer: Lingzhou Xue <lzxue@psu.edu>
 Depends: R (>= 3.5.0)
 Repository: CRAN
-Date/Publication: 2021-10-02 04:20:02 UTC
+Date/Publication: 2021-10-05 23:20:34 UTC
