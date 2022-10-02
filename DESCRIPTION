@@ -1,6 +1,6 @@
 Package: amanpg
-Version: 0.3.3
-Date: 2021-10-04
+Version: 0.3.4
+Date: 2022-10-02
 Title: Alternating Manifold Proximal Gradient Method for Sparse PCA
 Type: Package
 Authors@R: c(
@@ -8,7 +8,9 @@ Authors@R: c(
     person("Justin", "Huang", role = "aut"),
     person("Benjamin","Jochem", role = "aut"),
     person("Shiqian", "Ma", role = "aut"),
-    person("Lingzhou", "Xue", email = "lzxue@psu.edu", role = c("cre","aut")),
+    person("Haichuan", "Xu", role = "aut"),
+    person("Lingzhou", "Xue", role = "aut"),
+    person("Zhong", "Zheng", email = "zvz5337@psu.edu", role = c("cre","aut")),
     person("Hui", "Zou", role = "aut"))
 Description: Alternating Manifold Proximal Gradient Method for Sparse PCA uses the Alternating Manifold Proximal 
     Gradient (AManPG) method to find sparse principal components from a data or covariance matrix. Provides
@@ -22,14 +24,16 @@ VignetteBuilder: knitr
 Suggests: knitr, rmarkdown
 Encoding: UTF-8
 NeedsCompilation: no
-Packaged: 2021-10-04 15:50:53 UTC; benjochem
 Author: Shixiang Chen [aut],
   Justin Huang [aut],
   Benjamin Jochem [aut],
   Shiqian Ma [aut],
-  Lingzhou Xue [cre, aut],
+  Haichuan Xu [aut],
+  Lingzhou Xue [aut],
+  Zhong Zheng [cre, aut],
   Hui Zou [aut]
-Maintainer: Lingzhou Xue <lzxue@psu.edu>
+Maintainer: Zhong Zheng <zvz5337@psu.edu>
 Depends: R (>= 3.5.0)
+Packaged: 2022-10-02 15:38:42 UTC; 15000
 Repository: CRAN
-Date/Publication: 2021-10-05 23:20:34 UTC
+Date/Publication: 2022-10-02 16:10:05 UTC
